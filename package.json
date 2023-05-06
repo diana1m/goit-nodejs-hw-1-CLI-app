@@ -1,0 +1,25 @@
+{
+  "name": "goit-nodejs-hw-1-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana1m/goit-nodejs-hw-1-CLI-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana1m/goit-nodejs-hw-1-CLI-app/issues"
+  },
+  "homepage": "https://github.com/diana1m/goit-nodejs-hw-1-CLI-app#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
